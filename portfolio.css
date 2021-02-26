@@ -461,7 +461,4 @@ textarea:focus {
     position: fixed;
     right: 20px;
   }
-  body {
-    overflow-x: hidden;
-  }
 }
