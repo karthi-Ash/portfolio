@@ -13,4 +13,4 @@ if ($email != NULL) {
 } else {
     echo '<script>alert("Something Went Wrong")</script>';
 }
-header('location:portfolio.html');
+?>
